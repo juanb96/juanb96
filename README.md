@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 Soy estudiante de séptimo semestre en Ingeniería de Sistemas, apasionado <br>por la programación y el desarrollo de soluciones tecnológicas <br>innovadoras. Mi enfoque proactivo y creativo se refleja en mi capacidad<br>para abordar desafíos complejos. Destaco en entornos colaborativos, trabajo <br>en equipo, manteniendo relaciones interpersonales respetuosas. <br>Además, poseo habilidades de liderazgo que me permiten dirigir <br>equipos y gestionar proyectos de manera eficiente.
 
 
